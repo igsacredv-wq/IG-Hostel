@@ -1,0 +1,75 @@
+{
+  "reservations": [
+    {
+      "code": "IG-2026-1042",
+      "roomId": "suite-matrimonial",
+      "roomName": "Suite Matrimonial",
+      "checkIn": "2026-11-22",
+      "checkOut": "2026-11-25",
+      "nights": 3,
+      "guests": 2,
+      "guestName": "Camila Mendoza",
+      "guestEmail": "camila.mendoza@ejemplo.pe",
+      "guestPhone": "+51 984 310 225",
+      "arrivalTime": "14:00",
+      "notes": "Llegamos en vuelo de la mañana y queremos hacer el tour en bici a Moray.",
+      "selectedTourIds": [
+        "tour-moray-salineras"
+      ],
+      "includeTrainPackage": true,
+      "roomSubtotalUsd": 96,
+      "toursSubtotalUsd": 96,
+      "trainSubtotalUsd": 52,
+      "totalUsd": 244,
+      "status": "confirmada",
+      "createdAt": "2026-11-17T06:44:10.874Z"
+    },
+    {
+      "code": "IG-2026-1039",
+      "roomId": "apartamento-dobles-triples",
+      "roomName": "Apartamento Dobles / Triples",
+      "checkIn": "2026-11-18",
+      "checkOut": "2026-11-20",
+      "nights": 2,
+      "guests": 2,
+      "guestName": "Mateo & Lucas Herrera",
+      "guestEmail": "mateo.herrera@ejemplo.cl",
+      "guestPhone": "+56 9 8412 5531",
+      "arrivalTime": "13:30",
+      "notes": "Viaje en bicicleta por el Valle Sagrado.",
+      "selectedTourIds": [
+        "tour-yanahuara-ollantaytambo"
+      ],
+      "includeTrainPackage": false,
+      "roomSubtotalUsd": 86,
+      "toursSubtotalUsd": 84,
+      "trainSubtotalUsd": 0,
+      "totalUsd": 170,
+      "status": "confirmada",
+      "createdAt": "2026-11-17T06:44:10.874Z"
+    },
+    {
+      "code": "IG-2026-1045",
+      "roomId": "apartamentos-familiares-solarium",
+      "roomName": "Apartamentos Familiares Solarium",
+      "checkIn": "2026-11-20",
+      "checkOut": "2026-11-23",
+      "nights": 3,
+      "guests": 4,
+      "guestName": "Elena Vargas",
+      "guestEmail": "elena.vargas@ejemplo.es",
+      "guestPhone": "+34 612 884 910",
+      "arrivalTime": "15:00",
+      "notes": "Tren temprano a Machu Picchu el último día.",
+      "selectedTourIds": [],
+      "includeTrainPackage": true,
+      "roomSubtotalUsd": 177,
+      "toursSubtotalUsd": 0,
+      "trainSubtotalUsd": 104,
+      "totalUsd": 281,
+      "status": "confirmada",
+      "createdAt": "2026-11-17T06:44:10.874Z"
+    }
+  ],
+  "inquiries": []
+}

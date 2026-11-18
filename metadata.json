@@ -1,0 +1,8 @@
+{
+  "name": "Inka Garden Hostel",
+  "description": "Motor de reservas directo para hotel boutique de 5 habitaciones en Cusco y Valle Sagrado, con tours en bicicleta a Moray, Salineras, Yanahuara y Ollantaytambo, y conexión al tren a Machu Picchu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
